@@ -13,19 +13,23 @@
 <div align="center" align="center">
   <img src="https://i.giphy.com/media/bi6RQ5x3tqoSI/giphy.webp" width="400"/>
 </div>
-
+<hr>
 
 ### 👨‍💻 Sobre mi:
   
-   - 📖 Estudiando Actualmente un Grado Superior de Desarrollo de Aplicaciones Multiplataforma
-   - 🎮 Amplia Experiencia en la Creación de Videojuegos con Unity
-   - 👨‍🏫 Aprendiendo de Forma Autónoma otros Lenguajes de Programación
+   - 📕 Estudiando Actualmente un Grado Superior de Desarrollo de Aplicaciones Multiplataforma 📕
+   - 🎮 Amplia Experiencia en la Creación de Videojuegos con Unity 🎮
+   - 💻 En mi Tiempo Libre Sigo Aprendiendo Nuevos Lenguajes de Programación 💻
+   - :mailbox: Como Encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
 
+<hr>
 
 ### :fire: Mis Estadísticas :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrop19&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 ### 💻 Mis Lenguajes y Herramientas :
 <br>
