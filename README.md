@@ -24,6 +24,10 @@
 
 <hr>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 ### :fire: Mis Estadísticas :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrop19&theme=dark&background=000000)](https://git.io/streak-stats)
