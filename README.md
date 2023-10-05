@@ -48,3 +48,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+<hr>
+
+### Holopin
+
+[![An image of @pedrop19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pedrop19)](https://holopin.io/@pedrop19)
