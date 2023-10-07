@@ -50,3 +50,7 @@
 </div>
 
 <hr>
+
+### 🥇 Participación en Hacktoberfest:
+
+[![An image of @pedrop19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pedrop19)](https://holopin.io/@pedrop19)
