@@ -28,8 +28,7 @@
 ### :fire: Mis Estadísticas :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop19&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop19&layout=donut&theme=radical)](https://github.com/pedrop19/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrop19&show_icons=true&theme=radical)
 
 
