@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/pedrop19"><img src="https://api.daily.dev/devcards/v2/50S8GMM5xwNuC7sKZOfeN.png?r=h4z" width="356" alt="Pedro Rafael Lazaro Nevado's Dev Card"/></a>
 
 ### 👨‍💻 Sobre mi:
   
