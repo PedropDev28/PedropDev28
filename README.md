@@ -1,11 +1,22 @@
 <a href="https://app.daily.dev/pedrop19"><img src="https://api.daily.dev/devcards/v2/50S8GMM5xwNuC7sKZOfeN.png?r=h4z" width="356" alt="Pedro Rafael Lazaro Nevado's Dev Card"/></a>
 
+<img src="https://cdn.pixabay.com/photo/2017/01/31/15/13/flag-2024937_640.png" alt="Mi genial imagen" width="40" height="35" />
+
 ### 👨‍💻 Sobre mi:
   
    - 📕 Estudiando Actualmente un Grado Superior de Desarrollo de Aplicaciones Web 📕
    - 🎮 Amplia Experiencia en la Creación de Videojuegos con Unity 🎮
    - 💻 En mi Tiempo Libre Sigo Aprendiendo Nuevos Lenguajes de Programación 💻
    - :mailbox: Como Encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
+
+<img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f8.png" alt="Mi genial imagen" width="35" height="35" />
+
+### 👨‍💻 About Me:
+  
+   - 📕 Currently Studying a Higher Degree in Web Application Development 📕
+   - 🎮 Extensive Experience in Creating Video Games with Unity 🎮
+   - 💻 In My Free Time, I Continue Learning New Programming Languages 💻
+   - :mailbox: How to Reach Me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263">
@@ -20,12 +31,14 @@
 <hr>
 
 ### Trofeos Github 🏆:
+#### Github Trophies 🏆:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
 <hr>
 
 ### :fire: Mis Estadísticas :
+#### :fire: My Stats:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop19&layout=donut&theme=radical)](https://github.com/pedrop19/github-readme-stats)
@@ -35,6 +48,8 @@
 <hr>
 
 ### 💻 Mis Lenguajes y Herramientas :
+#### 💻 My Languages and Tools:
+
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -56,5 +71,6 @@
 <hr>
 
 ### 🥇 Participación en Hacktoberfest:
+#### 🥇 Participation in Hacktoberfest:
 
 [![An image of @pedrop19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pedrop19)](https://holopin.io/@pedrop19)
