@@ -41,7 +41,7 @@
 #### :fire: My Stats:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop19&layout=donut&theme=radical)](https://github.com/PedropDev28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedropDev28&layout=donut&theme=radical)](https://github.com/PedropDev28/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PedropDev28&show_icons=true&theme=radical)
 
 
