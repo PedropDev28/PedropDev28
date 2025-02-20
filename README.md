@@ -4,7 +4,8 @@
 
 ### 👨‍💻 Sobre mi:
   
-   - 📕 Estudiando Actualmente un Grado Superior de Desarrollo de Aplicaciones Web 📕
+   - 🖥️ Técnico Superior de Desarrollo de Aplicaciones Web 🖥️
+   - 📕 Estudiando Actualmente un Máster en Inteligencia Artifical y Big Data 📕
    - 🎮 Amplia Experiencia en la Creación de Videojuegos con Unity 🎮
    - 💻 En mi Tiempo Libre Sigo Aprendiendo Nuevos Lenguajes de Programación 💻
    - :mailbox: Como Encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
@@ -13,7 +14,8 @@
 
 ### 👨‍💻 About Me:
   
-   - 📕 Currently Studying a Higher Degree in Web Application Development 📕
+   - 🖥️ Web Application Development Technician 🖥️
+   - 📕 Currently Studying a Master's Degree in Artificial Intelligence and Big Data 📕
    - 🎮 Extensive Experience in Creating Video Games with Unity 🎮
    - 💻 In My Free Time, I Continue Learning New Programming Languages 💻
    - :mailbox: How to Reach Me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
@@ -66,7 +68,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 <hr>
