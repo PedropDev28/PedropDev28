@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre mi:
   
    - 🖥️ Técnico Superior de Desarrollo de Aplicaciones Web 🖥️
-   - 📕 Estudiando Actualmente un Máster en Inteligencia Artifical y Big Data 📕
+   - 📕 Máster en Inteligencia Artifical y Big Data 📕
    - 🎮 Amplia Experiencia en la Creación de Videojuegos con Unity 🎮
    - 💻 En mi Tiempo Libre Sigo Aprendiendo Nuevos Lenguajes de Programación 💻
    - :mailbox: Como Encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me:
   
    - 🖥️ Web Application Development Technician 🖥️
-   - 📕 Currently Studying a Master's Degree in Artificial Intelligence and Big Data 📕
+   - 📕 Master's Degree in Artificial Intelligence and Big Data 📕
    - 🎮 Extensive Experience in Creating Video Games with Unity 🎮
    - 💻 In My Free Time, I Continue Learning New Programming Languages 💻
    - :mailbox: How to Reach Me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rafael-l%C3%A1zaro-nevado-46170a263)
